@@ -1,2 +1,2 @@
 ## Ietian's Diary 
-New Application
+IETians Diary app from scratch
